@@ -1,0 +1,9 @@
+# Core scientific stack (latest compatible with modern Python)
+numpy 
+pandas
+scikit-learn
+matplotlib
+
+# PyTorch is installed separately depending on Python version and CPU/GPU:
+# - For Python 3.12 CPU (stable): see env/requirements-py312-cpu.txt
+# - For Python 3.13 CPU (nightly): see env/requirements-py313-nightly-cpu.txt
